@@ -1,0 +1,2 @@
+# splashpage
+GitHub Pages
